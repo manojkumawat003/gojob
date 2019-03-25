@@ -9,10 +9,10 @@ Just donwload and yarn install
 
 Sensetive data is deleted and api key provided, is fake.
 
-gif is made in emulator so, it may be unclear.
+gif images are made in emulator so, it may be unclear.
 
-![goJob1](https://user-images.githubusercontent.com/43071332/54930077-a1a3a800-4f3c-11e9-9c53-7ffd170684e3.gif)
+![goJob1](https://user-images.githubusercontent.com/43071332/54933769-4628e880-4f43-11e9-9c7e-93ceb5b29654.gif)
 
 
-<a href="https://drive.google.com/open?id=117fPTQXyk8qoTwBH6vVUn36SEo_HsBcy" title="goJob-two"></a>
+
 
