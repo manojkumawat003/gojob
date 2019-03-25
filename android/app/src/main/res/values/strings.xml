@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gojob</string>
+   <string name="facebook_app_id">2403765336320657</string>
+<string name="fb_login_protocol_scheme">fb2403765336320657</string>
+</resources>

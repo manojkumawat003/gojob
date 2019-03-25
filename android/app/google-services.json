@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794305194386",
+    "firebase_url": "https://gojob-d3902.firebaseio.com",
+    "project_id": "gojob-d3902",
+    "storage_bucket": "gojob-d3902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794305194386:android:987d7e8ab278f5a7",
+        "android_client_info": {
+          "package_name": "com.gojob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794305194386-au154oa3fsdr43emgnd7too06869jh5qr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gojob",
+            "certificate_hash": "dc9aa31980654sfed9aa51afa12658aa001ca3c"
+          }
+        },
+        {
+          "client_id": "7943055194386-6m0hqadvelsfsd2sa09vnc1urs7146rov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRlgGfvY7NuCNtgoSfsvFUcRj8mND9lG6Qs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794305198686-6m0hqadvelsp82ps09vnc1urs7146rov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
