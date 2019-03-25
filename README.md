@@ -11,7 +11,9 @@ Sensetive data is deleted and api key provided, is fake.
 
 gif images are made in emulator so, it may be unclear.
 
-![goJob1](https://user-images.githubusercontent.com/43071332/54933769-4628e880-4f43-11e9-9c7e-93ceb5b29654.gif)
+![gojob1](https://user-images.githubusercontent.com/43071332/54934200-1a5a3280-4f44-11e9-9cf3-f7f647e33829.gif)
+
+![gojob2](https://user-images.githubusercontent.com/43071332/54934202-1cbc8c80-4f44-11e9-922d-86582dc07b10.gif)
 
 
 
